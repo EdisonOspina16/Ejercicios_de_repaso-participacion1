@@ -1,3 +1,5 @@
+#Escribir un programa que determine si un número dado es par o impar
+
 def es_par_o_impar():
     num = int(input("ingrese un numero: "))
     if num % 2 == 0:
